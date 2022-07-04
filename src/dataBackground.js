@@ -5,6 +5,8 @@ import Background4 from './icon/background4.jpg';
 import Background5 from './icon/background5.jpg';
 import Background6 from './icon/background6.jpg';
 import Background7 from './icon/background7.jpg';
+import Background8 from './icon/background7.jpg';
+
 
 export const Background = 
     [
